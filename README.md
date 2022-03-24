@@ -1,6 +1,6 @@
 # url-shortener-dio
 
-Projeto criado junto da DIO para construção de um Encurtador de URL.
+Projeto criado junto da DIO para construção de um Encurtador de URL no Bootcamp Eduzz Fullstack Developer, com a professora Aléxia Pereira.
 
 ## Rodando o projeto
 
